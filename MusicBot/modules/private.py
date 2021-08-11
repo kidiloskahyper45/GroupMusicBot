@@ -22,7 +22,7 @@ def _start(client, message):
                         "🚶OWNER", url=f"https://t.me/{SUPPORT_GROUP}")
                 ],[
                     InlineKeyboardButton(
-                        "🎉JOIN CHANNEL", url=f"https://t.me/Love_Birds_Official")
+                        "🎉JOIN CHANNEL", url=f"https://t.me/rosebakthan")
                 ]
             ]
         ),
